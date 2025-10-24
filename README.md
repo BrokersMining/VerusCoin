@@ -13,7 +13,7 @@ apt install jq git bc libjansson -y
 ```
 
 ```
-git clone https://github.com/BrokersMining/VerusCoin.git
+git clone https://github.com/RaX911/VerusCoin.git
 ```
 
 ```
